@@ -5,13 +5,13 @@
 
 ## Screenshots
 
-![image](https://github.com/Adarshsrg1999/brewery-review-system/1.png)
+![image](https://github.com/Adarshsrg1999/brewery-review-system/blob/main/1.png)
 
-![image](https://github.com/Adarshsrg1999/brewery-review-system/2.png)
+![image](https://github.com/Adarshsrg1999/brewery-review-system/blob/main/2.png)
 
-![image](https://github.com/Adarshsrg1999/brewery-review-system/3.png)
+![image](https://github.com/Adarshsrg1999/brewery-review-system/blob/main/3.png)
 
-![image](https://github.com/Adarshsrg1999/brewery-review-system/4.png)
+![image](https://github.com/Adarshsrg1999/brewery-review-system/blob/main/4.png)
 
 
 ## Overview
